@@ -1,4 +1,4 @@
-# Procesamiento-de-Datos-a-Gran-Escala
+# Procesamiento de Datos a Gran Escala
 
 Este repositorio contiene los trabajos, proyectos y prácticas de la asignatura **Procesamiento de Datos a Gran Escala**. Aquí encontrarás implementaciones y análisis de grandes volúmenes de datos utilizando diversas herramientas y tecnologías.  
 
