@@ -49,7 +49,7 @@ Los cuadernos fueron ejecutados en **Databricks Community Edition**, pero tambi√
 2. **Clona este repositorio**: 
    - Clona el repositorio en tu m√°quina local:
    ```bash
-   git clone https://github.com/Andyy870/Procesamiento-de-Datos-a-Gran-Escala/edit/main/Ejercicios-Python
+   git clone https://github.com/Andyy870/Procesamiento-de-Datos-a-Gran-Escala/tree/main/Ejercicios-Python
 
 3. **Sube el repositorio a Databricks**: 
    - Dentro de Databricks, en la barra lateral izquierda, selecciona "Workspace".
