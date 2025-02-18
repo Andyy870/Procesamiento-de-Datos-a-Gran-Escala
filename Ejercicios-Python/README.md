@@ -47,9 +47,7 @@ Los cuadernos fueron ejecutados en **Databricks Community Edition**, pero tambi�
    - Si ya tienes acceso a través de tu universidad o empresa, solo inicia sesión.
 
 2. **Clona este repositorio**: 
-   - Clona el repositorio en tu máquina local:
-   ```bash
-   git clone https://github.com/Andyy870/Procesamiento-de-Datos-a-Gran-Escala/tree/main/Ejercicios-Python
+   - Clona el repositorio en tu máquina local
 
 3. **Sube el repositorio a Databricks**: 
    - Dentro de Databricks, en la barra lateral izquierda, selecciona "Workspace".
@@ -59,5 +57,3 @@ Los cuadernos fueron ejecutados en **Databricks Community Edition**, pero tambi�
    - Una vez que hayas subido los cuadernos a Databricks, abre el cuaderno deseado.
    - Haz clic en "Run All" para ejecutar todo el código o ejecuta las celdas de manera individual.
 
-## 🌟 ¡Diviértete programando! 🌟
-Espero que disfrutes de estos cuadernos tanto como yo disfruté creándolos. ¡Que tengas una excelente experiencia aprendiendo Python y resolviendo problemas interesantes! 😊
