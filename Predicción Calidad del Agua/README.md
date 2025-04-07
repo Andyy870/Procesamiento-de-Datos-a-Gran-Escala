@@ -12,5 +12,4 @@ Implementar modelos de predicción utilizando la biblioteca de aprendizaje autom
 
 - **Apache Spark** con **PySpark** 🚀
 - **MLlib** (biblioteca de aprendizaje automático de Spark) 📊
-- **Python** 🐍
 - **Colab Notebooks** 📓
